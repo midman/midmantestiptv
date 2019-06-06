@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+    <color name="border_blu">#4000ff</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blu_trasp">#641500ff</color>
+    <color name="green_trasp">#4615ff00</color>
+    <color name="red_trasp">#46ff0004</color>
+    <color name="bb_main">#46a48f7a</color>
+    <color name="file">#64898989</color>
+    <color name="file_ok">#6415ff00</color>
+    <color name="file_ko">#64ff0004</color>
+    <color name="folder">#64f8d775</color>
+    <color name="transparent">#00000000</color>
+    <color name="start">#c8008577</color>
+    <color name="stop">#c8ff0004</color>
+    <color name="bb_start">#c80000ff</color>
+    <color name="bb_end">#0a0000ff</color>
+
+</resources>

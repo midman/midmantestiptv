@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Midman Test IPTV</string>
+    <string name="file" translatable="false">FILE</string>
+    <string name="directory" translatable="false">DIR</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="stop" translatable="false">Stop</string>
+    <string name="selectFD" translatable="false">Select file or directory</string>
+    <string name="choose" translatable="false">SELECT</string>
+    <string name="msgDirMandatory" translatable="false">OPS!! Select the directory to test.</string>
+    <string name="msgNoFile" translatable="false">OPS!! No m3u or m3u8 files find in directory selected.</string>
+    <string name="no_app_to_open_file" translatable="false">No App to open file!</string>
+    <string name="tot" translatable="false">Num. Lists</string>
+    <string name="list_ok" translatable="false">Lists OK</string>
+    <string name="list_ko" translatable="false">Lists Error</string>
+
+</resources>
